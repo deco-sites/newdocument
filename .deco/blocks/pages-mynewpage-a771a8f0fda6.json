@@ -1,1 +1,14 @@
-{"name":"My New Page","path":"/example-path","sections":[{"__resolveType":"site/sections/Hero.tsx"},{"__resolveType":"site/sections/SimpleTextList.tsx"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "My New Page",
+  "path": "/example-path",
+  "sections": [
+    {
+      "__resolveType": "site/sections/SimpleTextList.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p style=\"text-align: justify\"><strong><span style=\"font-size: 14pt\">RingCentral </span>                                                      </strong><span style=\"font-size: 13pt\">Fax Message</span></p><p>_____________________________________________________________________</p><p><br>Dear Fax - 8007367026,</p><p><br><span style=\"font-size: 13pt\">You have a new fax message:</span></p><p></p><ul><li><p>From: DURHAM NC (919) 220-6379</p></li><li><p>Received: Tuesday, October 01, 2024 at 6:48 PM</p></li><li><p>Pages: 09</p></li><li><p>To: (800) 736-7026 (Fax - 8007367026 )<br><br><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.goal.com/en-us\"><strong><span style=\"color: #0a0a0a; font-size: 11pt\">VIEW DOCUMENT HERE</span></strong></a></p><p></p></li></ul><p>To view this message, open the attachment or use RingCentral app to have instant access to all</p><p>your messages on the go</p><p></p><p>Thank you for using RingCentral!</p><p>_______________________________________________________________________________________________________</p><p><br><span style=\"color: #71b0f4\">Work from anywhere with the RingCentral app. It's got</span></p><p><span style=\"color: #71b0f4\">everything you need to stay connected: team messaging, video</span></p><p><span style=\"color: #71b0f4\">meetings and phone - all in one app. </span><strong><span style=\"color: #74aeec\">Get started.</span></strong><br></p><p><span style=\"color: #999494\">By subscribing to and/or using RingCentral, you acknowledge agreement to our </span><strong><u><span style=\"color: #999494; font-size: 8pt\">Terms of Use.</span></u></strong><span style=\"color: #999494\"><br></span></p><p><span style=\"color: #999494\">Copyright 2024 RingCentral, Inc. All rights reserved. RingCentral and the RingCentral logo are</span></p><p><span style=\"color: #999494\">trademarks of RingCentral, Inc., 20 Davis Drive, Belmont, CA 94002, USA</span></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
